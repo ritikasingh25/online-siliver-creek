@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&family=Open+Sans:wght@300&display=swap');
+.form-div{
+    margin: 50px auto 50px;
+    padding: 25px 15px 10px 15px;
+    border: 1px solid #80ced7;
+    border-radius: 5px;
+    font-size: 1.1em;
+    
+}
+form p {
+    font-size: .89em;
+}
+
+.form-div.login{
+    margin-top: 100px;
+}
+form p{
+    font-size: .89em;
+}
+.logout{
+    color:red;
+
+}
